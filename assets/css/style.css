@@ -13,7 +13,7 @@ html {
 
 body {
     font-size: 1.6rem;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 /*====== Common ======*/
@@ -302,7 +302,7 @@ a {
     width: 458px;
     font-size: 1.8rem;
     line-height: 1.67;
-    color: #5F5B53;
+    color: #5f5b53;
 }
 
 .popular-top .controls {
@@ -336,8 +336,8 @@ a {
 
 .popular .course-item {
     flex: 1;
-    background: #FFFFFF;
-    border: 1px solid #E2DFDA;
+    background: #ffffff;
+    border: 1px solid #e2dfda;
     border-radius: 12px;
 }
 
@@ -378,14 +378,14 @@ a {
     margin-left: 6px;
     font-size: 1.6rem;
     line-height: 1.75;
-    color: #FEA31B;
+    color: #fea31b;
 }
 
 .popular .course-item .desc {
     margin-top: 6px;
     font-size: 1.4rem;
     line-height: 1.86;
-    color: #5F5B53;
+    color: #5f5b53;
 }
 
 .popular .course-item .foot {
@@ -434,7 +434,6 @@ a {
     line-height: 1.42;
     color: #f7f7f7;
 }
-
 
 .feedback-item .info .desc {
     margin-top: 4px;
@@ -514,13 +513,13 @@ a {
     margin-top: 16px;
     font-size: 1.6rem;
     line-height: 1.75;
-    color: #5F5B53;
+    color: #5f5b53;
 }
 
 .features .cta-btn {
     min-width: 137px;
     margin-top: 32px;
-    color: #FFFFFF;
+    color: #ffffff;
     background: var(--primary-color);
 }
 
@@ -574,7 +573,7 @@ a {
 .blog .item {
     flex-shrink: 0;
     width: calc(33.33% - 20px);
-    background: #FFFFFF;
+    background: #ffffff;
     border-radius: 16px;
 }
 
@@ -596,7 +595,7 @@ a {
     padding-bottom: 12px;
     font-size: 1.4rem;
     line-height: 1.86;
-    color: #5F5B53;
+    color: #5f5b53;
 }
 
 .blog .item .date::before {
